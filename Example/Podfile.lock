@@ -1,0 +1,16 @@
+PODS:
+  - ZHHLoopPagerView (0.0.1)
+
+DEPENDENCIES:
+  - ZHHLoopPagerView (from `../`)
+
+EXTERNAL SOURCES:
+  ZHHLoopPagerView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHHLoopPagerView: b84eda6ad21699e79b03f2691548206debd48cfc
+
+PODFILE CHECKSUM: 6c93bde8c2a14d971b91ec16073126eac3bb28fe
+
+COCOAPODS: 1.16.2

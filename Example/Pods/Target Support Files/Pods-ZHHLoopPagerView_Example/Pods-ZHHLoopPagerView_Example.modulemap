@@ -1,0 +1,6 @@
+framework module Pods_ZHHLoopPagerView_Example {
+  umbrella header "Pods-ZHHLoopPagerView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

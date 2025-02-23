@@ -1,0 +1,6 @@
+framework module ZHHLoopPagerView {
+  umbrella header "ZHHLoopPagerView-umbrella.h"
+
+  export *
+  module * { export * }
+}
